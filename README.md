@@ -11,8 +11,10 @@ Se han seguido los siguientes tutoriales durante esta versión del proyecto.
 - [Como crear un nivel y transiciones](https://youtu.be/gCNbHNQlIa8?si=ADnAuWgrhURXa5j-)
 
 En resumen, se ha hecho un pequeño mapa mundi, un pequeño poblado, y una especie de bar; aplicación de transiciones entre niveles.
-
-
+- Mapa mundi
+- Pequeño poblado
+- Simulacro de bar
+- Transiciones entre niveles
 
 ## [Pruebas Youtube 2](PruebasYoutube2)
 
@@ -22,8 +24,18 @@ Tutoriales seguidos:
 
 - [Como crear un personaje de forma nativa](https://youtu.be/oJeBSCmd3QU?si=22mvKPz8oBSc9ERP)
 
-En resumen, se han añadido:
 - Una posada, con un NPC que ya se da hecho por parte del motor.
 - Una tienda de armaduras, con un vendedor dentro.
 - Un NPC que se desplaza de forma aleatoria por el poblado, y poder hablar con este.
-- Un Main Character usando las herramientas nativas. (Y a importar/exportar los sprites de ataque, movimiento, diferentes expresiones...)
+- Un Main Character usando las herramientas nativas. (Y a importar/exportar los sprites de ataque, movimiento, diferentes expresiones... pero no a usarlas)
+
+## [Pruebas Youtube 3](PruebasYoutube3)
+
+Tutoriales seguidos:
+
+- [Como crear una clase personalizada](https://youtu.be/oJeBSCmd3QU?si=UoPaJUvNmqYUvxZd)
+- [Como crear un combate personalizado](https://youtu.be/BxCLPEH29Tw?si=x7gZa9BjJfRaJpHk)
+
+
+- Una clase personalizada al personaje principal.
+- Combates personalizados, añadiendo un nuevo tipo de enemigo, combate aleatorios en el mapamundi y evento fijo de combate al hablar con un NPC.
