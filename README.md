@@ -40,3 +40,11 @@ Tutoriales seguidos:
 Updates:
 - Una clase personalizada al personaje principal.
 - Combates personalizados, añadiendo un nuevo tipo de enemigo, combate aleatorios en el mapamundi y evento fijo de combate al hablar con un NPC.
+
+## [Pruebas Youtube 4](PruebasYoutube4)
+
+- [Como crear una cinemática](https://youtu.be/pG41z0gNeCA?si=TBnaKAPW7bLl_4N3)
+- [Como crear una quest/misión](https://youtu.be/ZLPJ55Iajv8?si=Sjzi4yhvHAlXq-VM) PENDIENTE
+
+Updates:
+- Ahora el juego cuenta con tremenda cinemática inicial.
