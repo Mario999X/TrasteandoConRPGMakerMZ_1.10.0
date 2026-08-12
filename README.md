@@ -44,7 +44,8 @@ Updates:
 ## [Pruebas Youtube 4](PruebasYoutube4)
 
 - [Como crear una cinemática](https://youtu.be/pG41z0gNeCA?si=TBnaKAPW7bLl_4N3)
-- [Como crear una quest/misión](https://youtu.be/ZLPJ55Iajv8?si=Sjzi4yhvHAlXq-VM) PENDIENTE
+- [Como crear una quest/misión](https://youtu.be/ZLPJ55Iajv8?si=Sjzi4yhvHAlXq-VM)
 
 Updates:
 - Ahora el juego cuenta con tremenda cinemática inicial.
+- Agregada una quest en el bar a lo MMO de coleccionar 3 manzanas y dar una poción.
