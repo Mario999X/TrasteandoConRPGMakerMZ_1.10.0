@@ -49,3 +49,14 @@ Updates:
 Updates:
 - Ahora el juego cuenta con tremenda cinemática inicial.
 - Agregada una quest en el bar a lo MMO de coleccionar 3 manzanas y dar una poción.
+
+## [Pruebas Youtube 5](PruebasYoutube5)
+
+- [Como añadir a un nuevo personaje al equipo in game](https://youtu.be/lxRisuHgPpQ?si=VxV23AzAZR_jxdua)
+- Como cambiar el fondo de peleas en el mapamundi, marca de la casa.
+
+Updates:
+- Ahora el juego cuenta con una nueva ciudad, con solo una casa.
+- Dentro de esa casa, que es una sede de mercenarios, se encuentra la Gótica marcial, que puedes agregar al equipo sin ningún requisito.
+
+- Además, haciendo uso de las regiones y de un evento en paralelo, colocado en un sitio innacesible por el jugador en el mapa mundi, se logra cambiar el fondo de batalla para una mayor inmersión.
