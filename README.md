@@ -60,3 +60,12 @@ Updates:
 - Dentro de esa casa, que es una sede de mercenarios, se encuentra la Gótica marcial, que puedes agregar al equipo sin ningún requisito.
 
 - Además, haciendo uso de las regiones y de un evento en paralelo, colocado en un sitio innacesible por el jugador en el mapa mundi, se logra cambiar el fondo de batalla para una mayor inmersión.
+
+## [Pruebas WorldMaps](WorldMapsProject)
+
+- [Principal video usado](https://youtu.be/ClSpXHG_UAU?si=1Yg_aWO7W_5rJWmX)
+
+Realmente quiero mejorar un poco mis capacidades de diseño, y acostumbrarme a la HUD del propio motor.
+
+Ire creando diferentes mapas y los ire guardando.
+- De primeras he tratado de diseñar el mapa V1 del juego. (con un par de ajustes y sin meter ciudades).
