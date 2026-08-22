@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"001-PalesV1","order":1,"parentId":0,"scrollX":6032,"scrollY":3698.6666666666665,"quick":false},
-{"id":2,"expanded":false,"name":"002-PalesV1-Islas-Rios","order":2,"parentId":0,"scrollX":6786,"scrollY":3891,"quick":false}
+{"id":2,"expanded":true,"name":"002-PalesV1-Islas-Rios","order":2,"parentId":0,"scrollX":6213.333333333333,"scrollY":3458.6666666666665,"quick":false},
+{"id":3,"expanded":false,"name":"003-PalesV1-Detalles-Generales","order":3,"parentId":0,"scrollX":6034.909090909091,"scrollY":4370.181818181818,"quick":false}
 ]
